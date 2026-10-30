@@ -751,6 +751,8 @@
     "pab-vocal_multiply_recipe-5-pa-target-neighbor-cd-technique|description": "<Buffer type only>\n Adjacent Idols' Vocal increases as a percentage of Idol parameters",
     "pab-vocal_multiply_recipe-5-pa-target-neighbor-cd-technique|name": "Adjacent Vocal",
     "pab-vocal_multiply_recipe-5|description": "Vocal increases as a percentage of Idol parameters",
-    "pab-vocal_multiply_recipe-5|name": "Vocal"
+    "pab-vocal_multiply_recipe-5|name": "Vocal",
+    "pab-affect_strength_effect_value_increase-special_score_multiplier_add_recipe_distribution-5|description": "Increases the strength of granted SP Skill score addition effects by {0} stages",
+    "pab-affect_strength_effect_value_increase-special_score_multiplier_add_recipe_distribution-5|name": "Granted SP Score Addition Effect Enhancement"
   }
 }

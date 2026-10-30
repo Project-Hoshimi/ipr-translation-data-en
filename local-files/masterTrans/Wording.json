@@ -252,6 +252,7 @@
     "marathon.top.raid.bigTitle|word": "MULTI LINKS",
     "shelf.home.tab.album.slot.episode.free|word": "{0}",
     "shelf.top.bigTitle|word": "PHOTO ALBUM",
-    "showcase.top.bigTitle|word": "GOODS CASE"
+    "showcase.top.bigTitle|word": "GOODS CASE",
+    "function.maintenance.toast.message|word": "Maintenance in progress"
   }
 }
