@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+  # Manual run: skips the release (already exists) and only re-sends the new-repo notify.
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -59,3 +61,16 @@ jobs:
             -f event_type=data-release \
             -f "client_payload[tag]=${{ steps.ver.outputs.ver }}" \
             -H "Authorization: token ${{ secrets.PIPELINE_PAT }}"
+
+      # Parallel run with the old repo for one week; continue-on-error so a token
+      # problem here never blocks the old pipeline.
+      - name: Notify new module repo (Project-Hoshimi)
+        if: steps.guard.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.PIPELINE_PAT }}
+        run: |
+          gh api repos/Project-Hoshimi/HoshimiLocalify-en/dispatches \
+            -X POST \
+            -f event_type=data-release \
+            -f "client_payload[tag]=${{ steps.ver.outputs.ver }}"
