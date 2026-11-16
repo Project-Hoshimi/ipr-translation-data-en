@@ -5333,6 +5333,16 @@
     "home-talk-card-yu-05-ster-00-talk-01|characterTalks[5].text": "Ah~, I can't wait for the day after tomorrow~",
     "home-talk-card-yu-05-ster-00-talk-01|choiceText": "Aren't Rui and Kotono joining you?",
     "home-talk-card-yu-05-ster-00-talk-01|managerText": "Aren't Rui and Kotono joining you?",
-    "home-talk-card-yu-05-fest-04-talk-01|characterTalks[4].text": "Say, {user}, to make sure you never get tricked by any bad people again,\nhow about I stay right by your side from now on?"
+    "home-talk-card-yu-05-fest-04-talk-01|characterTalks[4].text": "Say, {user}, to make sure you never get tricked by any bad people again,\nhow about I stay right by your side from now on?",
+    "home-talk-card-mna-05-casl-04-talk-01|characterTalks[0].text": "{user}, you were looking\nsuper busy this January,\nweren't you?",
+    "home-talk-card-mna-05-casl-04-talk-01|characterTalks[1].text": "You even lost track of the days so much that you came over in your school uniform on a Sunday shouting, \"We're gonna be late for school!\"",
+    "home-talk-card-mna-05-casl-04-talk-01|characterTalks[2].text": "I'm really happy that you work so hard for my sake, but I want you to take a little better care of yourself.",
+    "home-talk-card-mna-05-casl-04-talk-01|characterTalks[3].text": "Because I want you to stay by my side for a long, long time to come, {user}.",
+    "home-talk-card-mna-05-casl-04-talk-01|characterTalks[4].text": "Can you believe the manager of the genius idol Mana Nagase is talking about retiring from the entertainment world before me...",
+    "home-talk-card-mna-05-casl-04-talk-01|characterTalks[5].text": "I'll never forgive you for that! I was just thinking, wouldn't it be nice if we could keep being an idol even past 100 years old~?",
+    "home-talk-card-mna-05-casl-04-talk-01|choiceText": "Is something worrying you?",
+    "home-talk-card-mna-05-casl-04-talk-01|displayConditionDescription": "Watch Episode 3 of Holiday Connected by the Starry Sea Mana Nagase",
+    "home-talk-card-mna-05-casl-04-talk-01|managerText": "Is something worrying you?",
+    "home-talk-card-mna-05-casl-04-talk-01|title": "Holiday Connected by the Starry Sea"
   }
 }

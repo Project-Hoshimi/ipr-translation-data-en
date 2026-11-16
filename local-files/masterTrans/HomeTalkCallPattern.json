@@ -1121,6 +1121,8 @@
     "char-yu|call-pattern-card-yu-05-fest-04|characterArrivalText": "I'm worried about you, {user}. Why do you go and believe every single little fib you hear...",
     "char-yu|call-pattern-card-yu-05-jwel-00|characterArrivalText": "Heh~... they've got things like this too. Pendants, bracelets... Such a tough choice.",
     "char-yu|call-pattern-card-yu-05-link-00|characterArrivalText": "{user}, could you hear me out with a little worry of mine?",
-    "char-yu|call-pattern-card-yu-05-ster-00|characterArrivalText": "I promised Nagisa-chan we'd throw a school festival after-party together next time."
+    "char-yu|call-pattern-card-yu-05-ster-00|characterArrivalText": "I promised Nagisa-chan we'd throw a school festival after-party together next time.",
+    "char-mna|call-pattern-card-mna-05-casl-04|characterArrivalText": "Once we graduate high school, things are definitely going to get busier than ever.\nMe, and of course you too...",
+    "char-mna|call-pattern-card-mna-05-casl-04|managerCallText": "Good work today"
   }
 }
