@@ -3,7 +3,7 @@
     "id|description"
   ],
   "data": {
-    "live_tip-audience_shortage-01|description": "It seems your Audience size is low. Raise your Idols'\nFan Count and Core Fan Rate through Work.",
+    "live_tip-audience_shortage-01|description": "It seems your Audience size is low. Raise your Idols'\nFan Count and Core Fans through Work.",
     "live_tip-audience_shortage-02|description": "It seems your Audience size is low. The larger the Audience, the bigger\nthe Score bonus, and the lower the chance of failing Skills.",
     "live_tip-deck_unbalance-01|description": "It seems you have too many Scorer Types. Outside the SP Skill\npositions, balance your Supporters and Buffers.",
     "live_tip-deck_unbalance-02|description": "It seems you have too many Scorer Types. Supporter\nTypes on the outside and Buffer Types in other positions are recommended.",
